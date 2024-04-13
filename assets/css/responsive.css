@@ -1,0 +1,267 @@
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .blog-card {
+        margin-bottom: 2rem;
+    }
+    .blue-green-vector {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        width: 100px;
+    }
+    .mobile-text-center{
+        text-align: center;
+    }
+    .mobile-center-pos{
+        margin: 0 auto;
+        display: block !important;
+    }
+    .about-image1 img {
+        height: auto;
+    }
+    .best-prices-img {
+        position: relative;
+        left: 0rem;
+        max-width: 100% !important;
+    }
+    .mrgn-left {
+        margin-left: 0rem;
+        margin-bottom: 2rem;
+    }
+    .service-regularly-sec .man-cleaning {
+        margin-top: -2rem;
+        margin-left: 0rem;
+        margin-bottom: 2rem;
+    }
+    .square-boxes {
+        position: absolute;
+        left: 0;
+        width: 60px;
+        top: -110px;
+    }
+    .gren-dot {
+        right: 0;
+        top: 9rem;
+    }
+    .r-bg-lyer {
+        position: absolute;
+        right: -34px;
+        top: -3.7rem;
+        width: 80px;
+    }
+    .l-bluelyer {
+        position: absolute;
+        left: -85px;
+        bottom: 4rem;
+        z-index: 1;
+    }
+    .blue-half {
+        position: absolute;
+        left: 0;
+        top: -120px;
+        width: 80px;
+    }
+    .why-order-pro{
+        margin-bottom: 2rem;
+
+    }
+    .comercial-window-cleaning {
+        margin-bottom: 2rem;
+    }
+    .window-cleaning-sec {
+        padding: 12rem 0 0rem 0;
+    }
+    .cleaning-wind .Ellipse-blue {
+        right: -2rem;
+    }
+
+}
+@media screen and (max-width:767px) {
+ 
+    .px-5 {
+        padding-right: 1rem !important;
+        padding-left: 1rem !important;
+    }
+    .p-5 {
+        padding: 1.5rem!important;
+    }
+    .py-5 {
+        padding-top: 2rem!important;
+        padding-bottom: 2rem!important;
+    }
+    .mobile-flex{
+        flex-wrap: wrap;
+    row-gap: 1rem;
+    }
+    .contact-card{
+        margin-bottom: 2rem;
+
+    }
+    .blue-bg-layer2 {
+        position: absolute;
+        right: 0;
+        top: -9.6rem;
+        width: 170px;
+    }
+    .p-sm-3{
+        padding: 1.5rem;
+    }
+    .mobile-m{
+        margin-top: 130px;
+
+    }
+    .about-image1 img {
+        height: auto;
+    }
+    .about-image2 img {
+        height: auto;
+    }    
+    .blog-card {
+        margin-bottom: 2rem;
+    }
+    .blue-green-vector {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        width: 100px;
+    }
+    .card-style {
+        bottom: -17rem;
+
+        left: 0;
+        margin: 0 auto;
+        right: 0;
+    }
+    .blur-doted-hero-vector {
+        position: absolute;
+        right: 0;
+        top: 0;
+        left: 0;
+        margin: 0 auto;
+    }
+    .right-thumbnail{
+        margin-top: 2rem;
+    }
+    .mobile-w{
+        width:50% !important;
+    }
+    .img-fluid-custom {
+        max-width: 86%;
+    }
+    .mrgn-bottom{
+        margin-bottom: 1rem;
+    }
+    .mobile-text-center{
+        text-align: center;
+    }
+    .mobile-center-pos{
+        margin: 0 auto;
+        display: block !important;
+    }
+    .Professional-window-services{
+        margin-top: 15rem !important;
+
+    }
+    #contact-form input{
+        height: 40px;
+    }
+    .power-washing .blue-circle {
+        top: 6rem;
+        left: 1rem;
+    }
+    .mobile_bm{
+        margin-bottom: 2rem;
+    }
+    .gren-dot {
+        right: 0;
+        top: 9rem;
+    }
+    .blue-half {
+        position: absolute;
+        left: 0;
+        top: -87px;
+        width: 65px;
+    }
+    .square-boxes {
+        position: absolute;
+        left: 0;
+        width: 60px;
+        top: -110px;
+    }
+    .blue-wave-r {
+        position: absolute;
+        right: 0;
+        bottom: 25.6rem;
+    }
+    
+    .service-regularly-sec .man-cleaning {
+        margin-top: -2rem;
+        margin-left: 0rem;
+        margin-bottom: 2rem;
+    }
+    .mrgn-left {
+        margin-left: 0rem;
+        margin-bottom: 2rem;
+    }    
+    .window-cleaning-sec {
+        padding: 12rem 0 0rem 0;
+    }
+    .window-washing-after-repair{
+        padding-top: 0 !important;
+    }
+    .about-text h2 {
+        font-size: 44px;
+    }
+    .comercial-window-cleaning{
+        margin-bottom: 2rem;
+
+    }
+    .window-washing-after-repair.py-5{
+        padding-top: 0 !important;
+
+    }
+    .best-prices-img {
+        position: relative;
+        left: 0rem;
+        max-width: 100% !important;
+    }
+    .additional-charges.py-5{
+        padding-top: 0 !important;
+
+    }
+    .r-bg-lyer {
+        position: absolute;
+        right: 0;
+        top: -6rem;
+        width: 80px;
+    }
+    .l-bluelyer {
+        position: absolute;
+        left: -85px;
+        bottom: 0rem;
+        z-index: 1;
+    }
+    .table_card .px-5, .table_card .py-3{
+        padding: 1rem !important;
+    }
+    .why-order-pro{
+        margin-bottom: 2rem;
+
+    }
+    .no_windows {
+        border-radius: 10px 0 0 10px;
+        padding: 0.5rem 1.8rem 0.5rem 1.8rem;
+    }
+    .cleaning-wind .Ellipse-blue {
+        right: 0rem;
+        margin: -65px 0 0 0;
+    }
+    .square-blue-dots {
+        width: 80px;
+        position: absolute;
+        left: 0;
+        bottom: 0px;
+    }
+    .nortbook .blue-wave-r {
+        bottom: 26.3rem;
+    }
+}
